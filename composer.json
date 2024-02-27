@@ -1,0 +1,17 @@
+{
+    "name": "solicoders/maquettes",
+    "description": "tis is a valid maquettes for the solicoders groupe",
+    "autoload": {
+        "psr-4": {
+            "Solicoders\\Maquettes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zaani12",
+            "email": "zaani.hamza.solicode@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
