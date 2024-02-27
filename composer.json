@@ -1,6 +1,8 @@
 {
     "name": "solicoders/maquettes",
     "description": "tis is a valid maquettes for the solicoders groupe",
+    "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Solicoders\\Maquettes\\": "src/"
